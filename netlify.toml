@@ -1,7 +1,0 @@
-[build]
-  functions = "."
-
-[[redirects]]
-  from = "/webhook"
-  to = "/.netlify/functions/webhook"
-  status = 200
